@@ -1,0 +1,725 @@
+{
+    "_id" : ObjectId("636fc57a90f5dd0004c7db56"),
+    "gamification" : {
+        "points" : NumberInt(10),
+        "quiz" : "111"
+    },
+    "active" : true,
+    "name" : "Nelson R.",
+    "type" : "user",
+    "birth_date" : ISODate("1975-07-04T00:00:00.000+0000"),
+    "description" : "teste UAb",
+    "location" : {
+        "city" : "Portimão",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "nelson",
+        "password" : "$2a$04$in8l9CdYep9EBDFR/tInQ.eTLP7Gf5h.7aTQnAKlGkDFyJhPW9FHe",
+        "public_key" : "c5fn9vgrb7636fc57a90f5dd0004c7db56",
+        "private_key" : "dm13g53yhd6636fc57a90f5dd0004c7db56"
+    },
+    "registration_date" : ISODate("2022-11-12T16:10:34.513+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("636fc61690f5dd0004c7db57"),
+    "gamification" : {
+        "points" : NumberInt(2),
+        "quiz" : "11"
+    },
+    "active" : true,
+    "name" : "Admin",
+    "type" : "admin",
+    "birth_date" : ISODate("1975-07-04T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "",
+        "district" : "",
+        "country" : ""
+    },
+    "auth" : {
+        "username" : "admin",
+        "password" : "$2a$04$wKnAbCIkTEdVjb6nr.82oukqwDKaYtHSaWLhVyZYZwq9ofJHcQr7W",
+        "public_key" : "p4uurpg46r636fc61690f5dd0004c7db57",
+        "private_key" : "e5khlcdfbpd636fc61690f5dd0004c7db57"
+    },
+    "registration_date" : ISODate("2022-11-12T16:13:10.513+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637145b06ab64d00042dd040"),
+    "gamification" : {
+        "points" : NumberInt(2),
+        "quiz" : "1"
+    },
+    "active" : true,
+    "name" : "Artur",
+    "type" : "user",
+    "birth_date" : ISODate("1974-04-26T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "porto",
+        "district" : "",
+        "country" : "portugal"
+    },
+    "auth" : {
+        "username" : "artur",
+        "password" : "$2a$04$R9ZBmdlka8exVWCmjPfc3OWD.QL3sybGFkXWR6ohnUGFcotZX3tMe",
+        "public_key" : "8buyy60in2v637145b06ab64d00042dd040",
+        "private_key" : "ljlpt6vv3s637145b06ab64d00042dd040"
+    },
+    "registration_date" : ISODate("2022-11-13T19:29:52.478+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63714b1c6ab64d00042dd041"),
+    "gamification" : {
+        "points" : NumberInt(2),
+        "quiz" : "1"
+    },
+    "active" : true,
+    "name" : "art",
+    "type" : "admin",
+    "birth_date" : ISODate("1974-04-26T00:00:00.000+0000"),
+    "description" : "art",
+    "location" : {
+        "city" : "PORTO",
+        "district" : "",
+        "country" : "PORTUGAL"
+    },
+    "auth" : {
+        "username" : "art",
+        "password" : "$2a$04$.OX0Q3vxxfXOb.Tdp3Y78e5jgZoRae4qshuXMBRsl6fo/Nqsf2pQC",
+        "public_key" : "pw2fpgbpcfp63714b1c6ab64d00042dd041",
+        "private_key" : "cqc3h8vlftb63714b1c6ab64d00042dd041"
+    },
+    "registration_date" : ISODate("2022-11-13T19:53:00.107+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63716d93623852000483d71f"),
+    "gamification" : {
+        "points" : NumberInt(4),
+        "quiz" : "2"
+    },
+    "active" : true,
+    "name" : "Paulino Jonas",
+    "type" : "admin",
+    "birth_date" : ISODate("1994-05-13T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Guimarães",
+        "district" : "",
+        "country" : "Angola"
+    },
+    "auth" : {
+        "username" : "paulinojonaspj",
+        "password" : "$2a$04$N2dy9/DA8Aq.zljypi6ek.koCEkdM2VKx4v42T/lUTw48iGWrzeZ2",
+        "public_key" : "l0t6sh4v2vh63716d93623852000483d71f",
+        "private_key" : "8unjy3q7jwo63716d93623852000483d71f"
+    },
+    "registration_date" : ISODate("2022-11-13T22:20:03.858+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63725e01fdf817569416d3ea"),
+    "gamification" : {
+        "points" : NumberInt(4),
+        "quiz" : "2"
+    },
+    "active" : true,
+    "name" : "aluno",
+    "type" : "admin",
+    "birth_date" : ISODate("2022-11-13T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Lisboa",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "aluno",
+        "password" : "$2a$04$J1RrdHRYSJnQCs2wsGUVVuJ2JzwqC1G0hzf5R4TmrVIWDfkssirAW",
+        "public_key" : "miubajiep6a63725e01fdf817569416d3ea",
+        "private_key" : "kwb5z7llof963725e01fdf817569416d3ea"
+    },
+    "registration_date" : ISODate("2022-11-14T15:25:53.943+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63726092fdf817569416d3ef"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Mimi",
+    "type" : "user",
+    "birth_date" : ISODate("2022-11-07T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Porto",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "mimi",
+        "password" : "$2a$04$RDeCWG2qU9eoPE6kiSWm5enyrg7rYvf54cxP7gN6SVqzAu9spoMRi",
+        "public_key" : "8cigsyjnecw63726092fdf817569416d3ef",
+        "private_key" : "017kkoltwigy63726092fdf817569416d3ef"
+    },
+    "registration_date" : ISODate("2022-11-14T15:36:50.111+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6373adda9a920b0004eb8c69"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Gilles",
+    "type" : "user",
+    "birth_date" : ISODate("1983-05-20T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Lisboa",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "gilles",
+        "password" : "$2a$04$3/iNNrTL9zkNdt2MFaRi1ON7jBSbrBAfauQEX47y2QHJ69As4.uHu",
+        "public_key" : "dhf8ii5sqhp6373adda9a920b0004eb8c69",
+        "private_key" : "5fckb8p5grg6373adda9a920b0004eb8c69"
+    },
+    "registration_date" : ISODate("2022-11-15T15:18:50.727+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6373b23dfdf817569416d3f4"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Jorge Silva",
+    "type" : "user",
+    "birth_date" : ISODate("2022-11-08T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Lisboa",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "jorge",
+        "password" : "$2a$04$GPUdp2JcKd0qLO3vtxvjTuJcd5veZkjeFQlTiM9V4rkqT6ILOYAAO",
+        "public_key" : "qlgx06ig62i6373b23dfdf817569416d3f4",
+        "private_key" : "tr8i6bq3b16373b23dfdf817569416d3f4"
+    },
+    "registration_date" : ISODate("2022-11-15T15:37:33.498+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6373ee465a28c50004e93471"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Nome do Utilizador",
+    "type" : "user",
+    "birth_date" : ISODate("1991-07-09T00:00:00.000+0000"),
+    "description" : "Teste",
+    "location" : {
+        "city" : "teste",
+        "district" : "",
+        "country" : "teste"
+    },
+    "auth" : {
+        "username" : "usernamedoutilizador",
+        "password" : "$2a$04$CjDrWZR/udDKFzV5C4RGRO0P/f0skkW6Rchi0bf2EuvMfvHiI2qVG",
+        "public_key" : "9sfkxfu1m16373ee465a28c50004e93471",
+        "private_key" : "789x9a0jwfq6373ee465a28c50004e93471"
+    },
+    "registration_date" : ISODate("2022-11-15T19:53:42.729+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6374cedc81921600048c4ba0"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "teste",
+    "type" : "user",
+    "birth_date" : ISODate("1996-02-14T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Porto",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "teste1234",
+        "password" : "$2a$04$Ul2VWT1wXgoZ00lL0hlJ7u4WT3B7qtBBRdLIlV3B1qUyHQzt.XQKO",
+        "public_key" : "01yjzpmhulst6374cedc81921600048c4ba0",
+        "private_key" : "thmvut2ukh6374cedc81921600048c4ba0"
+    },
+    "registration_date" : ISODate("2022-11-16T11:51:56.037+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637565b4d1900f2e00169d62"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Daniel",
+    "type" : "user",
+    "birth_date" : ISODate("2022-11-13T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Lisboa",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "Daniel",
+        "password" : "$2a$04$Nnbj3loruDjXSIeb8qwMiOlEq.xAr.M4bScXAdRGynPr98.a2GiMu",
+        "public_key" : "5kyq5ouul5u637565b4d1900f2e00169d62",
+        "private_key" : "xzkbt65olu637565b4d1900f2e00169d62"
+    },
+    "registration_date" : ISODate("2022-11-16T22:35:32.099+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637586edecc7340004f80e9b"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "as",
+    "type" : "user",
+    "birth_date" : ISODate("2022-11-18T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "as",
+        "district" : "",
+        "country" : "as"
+    },
+    "auth" : {
+        "username" : "as",
+        "password" : "$2a$04$ssRc5hls5hNoFQaM1/QDD.7lgXIpp7abtW/.bW.2WEXiRLdUu5TAa",
+        "public_key" : "ehb24xosai5637586edecc7340004f80e9b",
+        "private_key" : "bqqwtbgidt7637586edecc7340004f80e9b"
+    },
+    "registration_date" : ISODate("2022-11-17T00:57:17.253+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6376c4c626bb6c0004583c7e"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "vitor",
+    "type" : "user",
+    "birth_date" : ISODate("1962-09-18T00:00:00.000+0000"),
+    "description" : "vitynho",
+    "location" : {
+        "city" : "Braga",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "vm",
+        "password" : "$2a$04$4GhKZZgmWStUwctaFmlMC.Ic8vUSi3HcdCFfS2NHynNiFFw8/ud/.",
+        "public_key" : "edpwxn1cwro6376c4c626bb6c0004583c7e",
+        "private_key" : "j65nqhbxai6376c4c626bb6c0004583c7e"
+    },
+    "registration_date" : ISODate("2022-11-17T23:33:26.751+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63792911886d9f00042067f9"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Luis Jorge ",
+    "type" : "admin",
+    "birth_date" : ISODate("1989-12-18T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Tete",
+        "district" : "",
+        "country" : "Moçambique"
+    },
+    "auth" : {
+        "username" : "lnhacanhaca",
+        "password" : "$2a$04$mYDrGv9L78yS87ITMCvkoOaZN3KUnEghCPK.cNWH4ZvEFwNMLkZgW",
+        "public_key" : "qeffc7zaz2q63792911886d9f00042067f9",
+        "private_key" : "re2xzgpf8v63792911886d9f00042067f9"
+    },
+    "registration_date" : ISODate("2022-11-19T19:05:53.559+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637949cc6dca3a00046220f5"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "José Chemane",
+    "type" : "admin",
+    "birth_date" : ISODate("1988-01-08T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Tete",
+        "district" : "",
+        "country" : "Mozambique"
+    },
+    "auth" : {
+        "username" : "jchemane",
+        "password" : "$2a$04$9cSru7LHkWHL1aMX5w5Ho.LkI4p2G0Gj2RGBIse3d.cXAHpR8fXOO",
+        "public_key" : "hqbwzaj9964637949cc6dca3a00046220f5",
+        "private_key" : "rtjr5l1duj637949cc6dca3a00046220f5"
+    },
+    "registration_date" : ISODate("2022-11-19T21:25:32.779+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637b4ed7b869bf0004b4a7c2"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Elton Penicela",
+    "type" : "admin",
+    "birth_date" : ISODate("1993-03-11T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Tete",
+        "district" : "",
+        "country" : "Mozambique"
+    },
+    "auth" : {
+        "username" : "epenicela",
+        "password" : "$2a$04$MStUWYzJLJdjwOcpLJJqQuSv4gImyv9oyY7UEinp4PGKKHnCJzI8.",
+        "public_key" : "yinni1llgrc637b4ed7b869bf0004b4a7c2",
+        "private_key" : "832zubdba4x637b4ed7b869bf0004b4a7c2"
+    },
+    "registration_date" : ISODate("2022-11-21T10:11:35.086+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637d2b80b011700004460263"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "gh",
+    "type" : "user",
+    "birth_date" : ISODate("2022-11-03T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "h",
+        "district" : "",
+        "country" : "portugal"
+    },
+    "auth" : {
+        "username" : "gh",
+        "password" : "$2a$04$p4ms9a87HZk7D7GPuAbUEuh5SrWKD9xLBQJQsVfThIloFs3xuyOZq",
+        "public_key" : "dkehstcup6m637d2b80b011700004460263",
+        "private_key" : "zdqczfvx86637d2b80b011700004460263"
+    },
+    "registration_date" : ISODate("2022-11-22T20:05:20.101+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637e9b3888d7da0004515097"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Carlos",
+    "type" : "admin",
+    "birth_date" : ISODate("1994-01-10T00:00:00.000+0000"),
+    "description" : "Teste admin",
+    "location" : {
+        "city" : "Viseu",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "carlos",
+        "password" : "$2a$04$jmW0yfqXI3Rc9/mEHK5NtOFspvOHGWo0i8oftGvpVXorkQdeEkPKu",
+        "public_key" : "btfgcu1c36p637e9b3888d7da0004515097",
+        "private_key" : "gacrd89idq637e9b3888d7da0004515097"
+    },
+    "registration_date" : ISODate("2022-11-23T22:14:16.082+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637e9dff88d7da0004515098"),
+    "gamification" : {
+        "points" : NumberInt(4),
+        "quiz" : "2"
+    },
+    "active" : true,
+    "name" : "teste",
+    "type" : "user",
+    "birth_date" : ISODate("1994-01-10T00:00:00.000+0000"),
+    "description" : "Teste criação user",
+    "location" : {
+        "city" : "Viseu",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "teste",
+        "password" : "$2a$04$MW6AqS5Dvm6OCk588xfPDulaVgkH70DsN68UR67XSCzpVm8N.k.em",
+        "public_key" : "pnjlwfiga5637e9dff88d7da0004515098",
+        "private_key" : "a68a43555le637e9dff88d7da0004515098"
+    },
+    "registration_date" : ISODate("2022-11-23T22:26:07.141+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637ed9e188d7da00045150fb"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "miguel",
+    "type" : "user",
+    "birth_date" : ISODate("2002-02-14T00:00:00.000+0000"),
+    "description" : "filho",
+    "location" : {
+        "city" : "BRAGA",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "miguel",
+        "password" : "$2a$04$LpLbpJuREgPJJBotE3nIWejJBd9HMa5RHB./uAy4w29cLprfoGGqa",
+        "public_key" : "zyz2ctyz22637ed9e188d7da00045150fb",
+        "private_key" : "wutohr1cvp637ed9e188d7da00045150fb"
+    },
+    "registration_date" : ISODate("2022-11-24T02:41:37.055+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637ef33788d7da00045150fc"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "MIGUEL",
+    "type" : "user",
+    "birth_date" : ISODate("2002-02-12T00:00:00.000+0000"),
+    "description" : "FILHO",
+    "location" : {
+        "city" : "BRAGA",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "VM",
+        "password" : "$2a$04$bSJ4wh3su5q6IHKQAmw2VeiXbqSgT2zm3ih1tz4Z6dClGRYQibAb6",
+        "public_key" : "a9xomaysukb637ef33788d7da00045150fc",
+        "private_key" : "uz43gt06lxa637ef33788d7da00045150fc"
+    },
+    "registration_date" : ISODate("2022-11-24T04:29:43.254+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6380c7363c76b40004ca3b50"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Gil Cunha",
+    "type" : "user",
+    "birth_date" : ISODate("1979-05-19T00:00:00.000+0000"),
+    "description" : "Utilizador Gil Cunha",
+    "location" : {
+        "city" : "Lisboa",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "gil",
+        "password" : "$2a$04$jUlZHVZQDVQMeNAicaYAh.E.7OkPUVwtoROJzJPlrZDqQxk8A5e1u",
+        "public_key" : "rvyg4v6wce6380c7363c76b40004ca3b50",
+        "private_key" : "ajgda8izij6380c7363c76b40004ca3b50"
+    },
+    "registration_date" : ISODate("2022-11-25T13:46:30.757+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3eb857dd3c703b4a7accb"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "pedro",
+    "type" : "admin",
+    "birth_date" : ISODate("1980-01-11T00:00:00.000+0000"),
+    "description" : "asdsadsadsadsa",
+    "location" : {
+        "city" : "12",
+        "district" : "",
+        "country" : "sadsadsa"
+    },
+    "auth" : {
+        "username" : "xxpe",
+        "password" : "$2a$04$HiPftTNXHDWMf.l9h7EGguCQCfdAOWJEsaRxHOeIEAAQdSXp0LE6O",
+        "public_key" : "hcu2f27s35563d3eb857dd3c703b4a7accb",
+        "private_key" : "56g3tpvqyvv63d3eb857dd3c703b4a7accb"
+    },
+    "registration_date" : ISODate("2023-01-27T15:19:34.098+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("645bd717001a8f02fce60c2f"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "tester",
+    "type" : "user",
+    "birth_date" : ISODate("2000-08-26T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Porto",
+        "district" : "",
+        "country" : "Portugal"
+    },
+    "auth" : {
+        "username" : "tester1",
+        "password" : "$2a$04$ynB9m/jNcDXzqYkxA4.9cOtvWrO.1edPYpJ9wvGBCxCMrtsJ5ca2C",
+        "public_key" : "ynqfo40wer8645bd717001a8f02fce60c2f",
+        "private_key" : "6y5503lbfy9645bd717001a8f02fce60c2f"
+    },
+    "registration_date" : ISODate("2023-05-10T17:40:39.467+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("655f10d6ec326209338ef000"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "JM Cabanga",
+    "type" : "user",
+    "birth_date" : ISODate("2000-09-21T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Luanda",
+        "district" : "",
+        "country" : "Angola"
+    },
+    "auth" : {
+        "username" : "cabanga",
+        "password" : "$2a$04$bNhxzrtNfHqhR788UBQ10ue3KxiYwqabFU/olTA6YUL2jXl4EB0fm",
+        "public_key" : "q6mnnmbqbm655f10d6ec326209338ef000",
+        "private_key" : "zydlt6z4t5h655f10d6ec326209338ef000"
+    },
+    "registration_date" : ISODate("2023-11-23T08:44:06.826+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("656a461665f8b008428c9c7c"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Eduardo",
+    "type" : "admin",
+    "birth_date" : ISODate("2023-12-25T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "City",
+        "district" : "",
+        "country" : "Marte"
+    },
+    "auth" : {
+        "username" : "root",
+        "password" : "$2a$04$f3xEt9WerMBPIM8ejsy7/eKitD3wzuDlqlkUszhaIXL7A1.dZg5ze",
+        "public_key" : "x2rjr930wi656a461665f8b008428c9c7c",
+        "private_key" : "x9q829tlmp656a461665f8b008428c9c7c"
+    },
+    "registration_date" : ISODate("2023-12-01T20:46:14.475+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("656e1c5f5dbc72d3d9d207c1"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Joao Santos",
+    "type" : "user",
+    "birth_date" : ISODate("1969-10-13T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "Porto",
+        "district" : "",
+        "country" : "portugal"
+    },
+    "auth" : {
+        "username" : "jp",
+        "password" : "$2a$04$zc4vD/0q7NfN.bgq2GImvO.Ls1HyHttmbD7mXczLPW2TpYhE.aBLi",
+        "public_key" : "qo6ok8mzzui656e1c5f5dbc72d3d9d207c1",
+        "private_key" : "ubu57i2cg5c656e1c5f5dbc72d3d9d207c1"
+    },
+    "registration_date" : ISODate("2023-12-04T18:37:19.124+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("657cf05f5dbc72d3d9d207c3"),
+    "gamification" : {
+        "points" : NumberInt(0),
+        "quiz" : null
+    },
+    "active" : true,
+    "name" : "Joao Santos",
+    "type" : "admin",
+    "birth_date" : ISODate("2023-12-16T00:00:00.000+0000"),
+    "description" : "",
+    "location" : {
+        "city" : "",
+        "district" : "",
+        "country" : ""
+    },
+    "auth" : {
+        "username" : "jp22",
+        "password" : "$2a$04$DLoRsmudkbKavcsTa/GhuuSm8.WMpeMoyOfaarwXWkrTAPspB/P4W",
+        "public_key" : "a0j7vgqaemn657cf05f5dbc72d3d9d207c3",
+        "private_key" : "pa6ahaqxm4e657cf05f5dbc72d3d9d207c3"
+    },
+    "registration_date" : ISODate("2023-12-16T00:33:35.682+0000"),
+    "__v" : NumberInt(0)
+}

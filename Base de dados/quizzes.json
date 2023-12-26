@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("637e9f2c88d7da00045150a1"),
+    "points" : NumberInt(5),
+    "level" : NumberInt(5),
+    "questions" : [
+
+    ],
+    "active" : true,
+    "name" : "Quem foi Viriato ?",
+    "date" : ISODate("2022-11-23T22:31:08.246+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637e9fe888d7da00045150a2"),
+    "points" : NumberInt(3),
+    "level" : NumberInt(3),
+    "questions" : [
+
+    ],
+    "active" : true,
+    "name" : "Qual a melhor ração para os cães?",
+    "date" : ISODate("2022-11-23T22:34:16.848+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637eae9988d7da00045150c8"),
+    "points" : NumberInt(2),
+    "level" : NumberInt(2),
+    "questions" : [
+
+    ],
+    "active" : true,
+    "name" : "OUTRO",
+    "date" : ISODate("2022-11-23T23:36:57.933+0000"),
+    "__v" : NumberInt(0)
+}

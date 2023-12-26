@@ -1,0 +1,96 @@
+{
+    "_id" : ObjectId("637e9e6888d7da0004515099"),
+    "level" : NumberInt(4),
+    "active" : true,
+    "question" : "Qual a capital de Portugal",
+    "group" : "",
+    "type" : "Escolha múltipla",
+    "description" : "Indique a capital de Portugal",
+    "title" : "",
+    "answers" : [
+        {
+            "_id" : ObjectId("637e9e8e88d7da000451509c"),
+            "title" : "Coimbra",
+            "description" : "",
+            "correct" : false
+        },
+        {
+            "_id" : ObjectId("637e9e8e88d7da000451509b"),
+            "title" : "Porto ",
+            "description" : "",
+            "correct" : false
+        },
+        {
+            "_id" : ObjectId("637e9e8e88d7da000451509a"),
+            "title" : "Lisboa",
+            "description" : "",
+            "correct" : true
+        }
+    ],
+    "date" : ISODate("2022-11-23T22:27:52.982+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637e9eff88d7da000451509d"),
+    "level" : NumberInt(2),
+    "active" : true,
+    "question" : "O que é um javali?",
+    "group" : "",
+    "type" : "Escolha múltipla",
+    "description" : "Escolha múltipla",
+    "title" : "",
+    "answers" : [
+        {
+            "_id" : ObjectId("637e9eff88d7da00045150a0"),
+            "title" : "Mamífero",
+            "description" : "",
+            "correct" : false
+        },
+        {
+            "_id" : ObjectId("637e9eff88d7da000451509f"),
+            "title" : "Ave",
+            "description" : "",
+            "correct" : false
+        },
+        {
+            "_id" : ObjectId("637e9eff88d7da000451509e"),
+            "title" : "hominídeo",
+            "description" : "",
+            "correct" : true
+        }
+    ],
+    "date" : ISODate("2022-11-23T22:30:23.722+0000"),
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("637ef4ba88d7da0004515100"),
+    "level" : NumberInt(1),
+    "active" : true,
+    "question" : "1 - O QUE É UMA LEBRE?",
+    "group" : "",
+    "type" : "Escolha múltipla",
+    "description" : "ANIMAL VELOZ",
+    "title" : "",
+    "answers" : [
+        {
+            "_id" : ObjectId("637ef4ba88d7da0004515103"),
+            "title" : "UM MAMIFERO",
+            "description" : "",
+            "correct" : true
+        },
+        {
+            "_id" : ObjectId("637ef4ba88d7da0004515102"),
+            "title" : "UM HERBIVORO",
+            "description" : "",
+            "correct" : false
+        },
+        {
+            "_id" : ObjectId("637ef4ba88d7da0004515101"),
+            "title" : "UM PEIXE",
+            "description" : "",
+            "correct" : false
+        }
+    ],
+    "date" : ISODate("2022-11-24T04:36:10.004+0000"),
+    "__v" : NumberInt(0)
+}

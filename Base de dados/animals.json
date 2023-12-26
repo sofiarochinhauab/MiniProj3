@@ -1,0 +1,390 @@
+{
+    "_id" : ObjectId("63714f6b6ab64d00042dd042"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "sapo",
+    "group" : "ave",
+    "description" : "sapo",
+    "level" : NumberInt(1),
+    "links" : [
+        {
+            "_id" : ObjectId("63714f6b6ab64d00042dd045"),
+            "types" : "photo",
+            "url" : "https://static.todamateria.com.br/upload/bu/fo/bufo1.jpg"
+        },
+        {
+            "_id" : ObjectId("63714f6b6ab64d00042dd044"),
+            "types" : "video",
+            "url" : ""
+        },
+        {
+            "_id" : ObjectId("63714f6b6ab64d00042dd043"),
+            "types" : "sound",
+            "url" : ""
+        }
+    ],
+    "comments" : [
+        {
+            "_id" : ObjectId("637ead8288d7da00045150ad"),
+            "date" : ISODate("2022-11-03T23:32:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        },
+        {
+            "_id" : ObjectId("63932fc42811d30cd4300482"),
+            "date" : ISODate("2022-12-05T12:53:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        },
+        {
+            "_id" : ObjectId("645bd74e001a8f02fce60c48"),
+            "date" : ISODate("2023-05-03T17:41:00.000+0000"),
+            "body" : "",
+            "user" : "645bd717001a8f02fce60c2f"
+        },
+        {
+            "_id" : ObjectId("645bd74e001a8f02fce60c47"),
+            "date" : ISODate("2023-05-03T17:41:00.000+0000"),
+            "body" : "",
+            "user" : "645bd717001a8f02fce60c2f"
+        },
+        {
+            "_id" : ObjectId("645bd74e001a8f02fce60c46"),
+            "date" : ISODate("2023-05-03T17:41:00.000+0000"),
+            "body" : "teste",
+            "user" : "645bd717001a8f02fce60c2f"
+        },
+        {
+            "_id" : ObjectId("645bd74e001a8f02fce60c45"),
+            "date" : ISODate("2023-05-03T17:41:00.000+0000"),
+            "body" : "teste",
+            "user" : "645bd717001a8f02fce60c2f"
+        },
+        {
+            "_id" : ObjectId("6582a34a1f4ae2b724988062"),
+            "date" : ISODate("2023-12-03T08:18:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        }
+    ],
+    "__v" : NumberInt(0),
+    "expert" : "Anura"
+}
+{
+    "_id" : ObjectId("637eb1b888d7da00045150c9"),
+    "evaluation" : [
+        "636fc61690f5dd0004c7db57"
+    ],
+    "active" : true,
+    "name" : "cavalo",
+    "group" : "mamífero",
+    "description" : "equídeo",
+    "level" : NumberInt(1),
+    "links" : [
+        {
+            "_id" : ObjectId("637eb1b888d7da00045150cc"),
+            "types" : "photo",
+            "url" : "https://cdn.pixabay.com/photo/2017/03/29/20/02/arabian-2186313_960_720.png"
+        },
+        {
+            "_id" : ObjectId("637eb1b888d7da00045150cb"),
+            "types" : "video",
+            "url" : "https://teste.pt"
+        },
+        {
+            "_id" : ObjectId("637eb1b888d7da00045150ca"),
+            "types" : "sound",
+            "url" : "https://teste.pt"
+        }
+    ],
+    "comments" : [
+        {
+            "_id" : ObjectId("645bd769001a8f02fce60c4e"),
+            "date" : ISODate("2023-05-03T17:42:00.000+0000"),
+            "body" : "",
+            "user" : "645bd717001a8f02fce60c2f"
+        },
+        {
+            "_id" : ObjectId("6582a3761f4ae2b72498806c"),
+            "date" : ISODate("2023-12-03T08:19:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        },
+        {
+            "_id" : ObjectId("6589423e90de191fac0324a3"),
+            "date" : ISODate("2023-12-01T08:49:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        },
+        {
+            "_id" : ObjectId("6589423e90de191fac0324a2"),
+            "date" : ISODate("2023-12-01T08:50:00.000+0000"),
+            "body" : "",
+            "user" : "636fc61690f5dd0004c7db57"
+        }
+    ],
+    "__v" : NumberInt(0),
+    "expert" : "Equus ferus",
+    "sponsor" : [
+
+    ]
+}
+{
+    "_id" : ObjectId("63d3c63f16ae72349c412d90"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "ASs",
+    "group" : "ave",
+    "description" : "ASa",
+    "level" : NumberInt(4),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c63f16ae72349c412d93"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c63f16ae72349c412d92"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c63f16ae72349c412d91"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c6a816ae72349c412d94"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "sdadsa",
+    "group" : "mamifero",
+    "description" : "sadsadsa",
+    "level" : NumberInt(4),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c6a816ae72349c412d97"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c6a816ae72349c412d96"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c6a816ae72349c412d95"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c74516ae72349c412d98"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "Teste",
+    "group" : "peixe",
+    "description" : "wefwdsfsdf",
+    "level" : NumberInt(3),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c74516ae72349c412d9b"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c74516ae72349c412d9a"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c74516ae72349c412d99"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c75d16ae72349c412d9c"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "Outros",
+    "group" : "reptil",
+    "description" : "2321",
+    "level" : NumberInt(2),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c75d16ae72349c412d9f"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c75d16ae72349c412d9e"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c75d16ae72349c412d9d"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c77416ae72349c412da0"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "yyyyyyyyyyyyyy",
+    "group" : "ave",
+    "description" : "yyyyyyyyyyyyy",
+    "level" : NumberInt(5),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c77416ae72349c412da3"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c77416ae72349c412da2"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c77416ae72349c412da1"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c79516ae72349c412da4"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "qwewe",
+    "group" : "mamifero",
+    "description" : "qwewqe",
+    "level" : NumberInt(3),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c79516ae72349c412da7"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c79516ae72349c412da6"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c79516ae72349c412da5"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("63d3c7be16ae72349c412da8"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "outros",
+    "group" : "ave",
+    "description" : "w",
+    "level" : NumberInt(2),
+    "links" : [
+        {
+            "_id" : ObjectId("63d3c7be16ae72349c412dab"),
+            "types" : "photo",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c7be16ae72349c412daa"),
+            "types" : "video",
+            "url" : "http://you.com"
+        },
+        {
+            "_id" : ObjectId("63d3c7be16ae72349c412da9"),
+            "types" : "sound",
+            "url" : "http://you.com"
+        }
+    ],
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
+{
+    "_id" : ObjectId("6589353b90de191fac032484"),
+    "evaluation" : [
+
+    ],
+    "active" : true,
+    "name" : "teste3",
+    "group" : "anfibio",
+    "description" : "teste3",
+    "level" : NumberInt(1),
+    "links" : [
+        {
+            "_id" : ObjectId("6589353b90de191fac032487"),
+            "types" : "photo",
+            "url" : "https://static.todamateria.com.br/upload/bu/fo/bufo1.jpg"
+        },
+        {
+            "_id" : ObjectId("6589353b90de191fac032486"),
+            "types" : "video",
+            "url" : "https://static.todamateria.com.br/upload/bu/fo/bufo1.jpg"
+        },
+        {
+            "_id" : ObjectId("6589353b90de191fac032485"),
+            "types" : "sound",
+            "url" : "https://www.youtube.com/watch?v=M8a6pn7jhSA"
+        }
+    ],
+    "expert" : "Equus ferus",
+    "comments" : [
+
+    ],
+    "__v" : NumberInt(0)
+}
